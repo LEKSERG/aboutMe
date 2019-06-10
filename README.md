@@ -1,2 +1,2 @@
 # aboutMe
-Info
+https://lekserg.github.io/aboutMe/
